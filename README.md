@@ -5,17 +5,9 @@
 
 - 🎓 Completed Undergraduate in 2019 from Pune University, India
 
-- 💼 Worked as Systems Engineer at Infosys from Dec '19 to July '21
-
-- 🥅 2022 Goals: Learn more about web 3.0 
-
-- 🌱 I’m currently pursuing my Master's degree from The University of North Carolina at Charlotte.
-
 - ⚡ Fun Fact: Learnt about rooting android from [xda-developers](https://www.xda-developers.com/)
 
 - 📫 Reach me at **anuj.m.sharma@gmail.com**
-
-- 📄 Know about my experiences and projects - [Resume](https://drive.google.com/file/d/1SHjGOusP5N8xDDBRWDFl6ADTXmFm79Y9/view?usp=sharing)
 
 ### Connect with me:
 <p align="left">
