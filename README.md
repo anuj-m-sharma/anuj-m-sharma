@@ -5,10 +5,6 @@
 
 - 🎓 Completed Undergraduate in 2019 from Pune University, India
 
-- ⚡ Fun Fact: Learnt about rooting android from [xda-developers](https://www.xda-developers.com/)
-
-- 📫 Reach me at **anuj.m.sharma@gmail.com**
-
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/Anuj9371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anuj9371" height="30" width="40" /></a>
